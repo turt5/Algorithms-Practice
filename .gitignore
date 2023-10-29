@@ -1,0 +1,6 @@
+# Ignore Visual Studio Code (VS Code) settings
+.vscode/
+.settings/
+
+# Ignore .exe files
+*.exe
